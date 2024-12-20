@@ -1,0 +1,9 @@
+frame,ID,x,y,w,h,scenefolderpath,filename
+34,2,830,350,49,117,./data/leftImg8bit/,00034.png
+34,3,1356,349,101,135,./data/leftImg8bit/,00034.png
+34,5,1011,357,19,44,./data/leftImg8bit/,00034.png
+34,6,1118,336,63,147,./data/leftImg8bit/,00034.png
+35,2,830,349,48,119,./data/leftImg8bit/,00035.png
+35,3,1360,333,95,148,./data/leftImg8bit/,00035.png
+35,5,1012,356,17,43,./data/leftImg8bit/,00035.png
+35,6,1108,329,51,148,./data/leftImg8bit/,00035.png
